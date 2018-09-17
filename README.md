@@ -4,11 +4,16 @@ _Copyright © 2018 Amy Ledesma. All Rights Reserved._
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Providing Southern Comfort</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://AmyLedesma.GitHub.io/" property="cc:attributionName" rel="cc:attributionURL">Amy Ledesma</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-* Learn Southern Culture ![https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Southern_dialect_map.png/300px-Southern_dialect_map.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Southern_dialect_map.png/300px-Southern_dialect_map.png)
+| ![https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Southern_dialect_map.png/300px-Southern_dialect_map.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Southern_dialect_map.png/300px-Southern_dialect_map.png)
 
+## Help Line for Southern American English Language and Culture
+* Learn Southern Culture 
 * Southern American English
 * Southern Wisdom and Advice.
 * Talk to Amy
+
+* Button **Flowers for Amy**
+* Button **Massage for Amy**
 
 ## Webmaster
 @comaldave skinner.david@gmail.com
