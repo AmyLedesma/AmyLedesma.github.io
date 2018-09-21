@@ -17,6 +17,7 @@ _Copyright © 2018 Amy Ledesma. All Rights Reserved._
 
 ## Webmaster
 @comaldave skinner.david@gmail.com
+<a href="https://eagledial.com/davsknet"><img src="https://eagledial.com/assets/ed/logo.png"></a>
 
 ## Welcome to GitHub Pages
 
