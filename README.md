@@ -13,7 +13,6 @@ _Copyright © 2018 Amy Ledesma. All Rights Reserved._
 * Talk to Amy
 
 * Button **Flowers for Amy**
-* Button **Massage for Amy**
 
 ## Webmaster
 @comaldave skinner.david@gmail.com
